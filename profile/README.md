@@ -14,6 +14,5 @@
 开发入门：
 
 1. 基于 GitHub 的项目管理（版本、开发、发布）规则：
-
 https://github.com/flutter-waff/flutter-waff-docs-public/blob/main/startup/github-develop-rules.md
 
