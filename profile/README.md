@@ -10,3 +10,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+入门
+
+基于 GitHub 的项目管理规则（版本、开发、发布）：
+
+https://github.com/flutter-waff/flutter-waff-docs-public/blob/main/startup/github-develop-rules.md
+
+
